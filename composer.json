@@ -1,0 +1,14 @@
+{
+    "name": "inf123/yii2-gii-uikit-templates",
+    "description": "UIKit templates for Gii based on the default Gii Bootstrap templates.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Nilsson",
+            "email": "inf123@gmail.com"
+        }
+    ],
+    "require": {
+        "intelligent/yii2-uikit": "*@dev"
+    }
+}
